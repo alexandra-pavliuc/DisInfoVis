@@ -21,7 +21,7 @@ Hmmm ... not so good.
 
 We need embed code.
 
-<pre>https://player.vimeo.com/video/416014094<VIDEO_ID> </pre>
+<pre>https://player.vimeo.com/video/416014094 </pre>
 
 https://player.vimeo.com/video/416014094
 
