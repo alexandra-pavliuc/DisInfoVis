@@ -9,7 +9,7 @@ Test success
 
 But it would be great if we could come up with a slightly different look and feel!
 
-#### Video Test
+### Video Test
 
 Here's what happens if we add ...
 
@@ -24,3 +24,11 @@ We need embed code.
 <pre>https://player.vimeo.com/video/416014094<VIDEO_ID> </pre>
 
 https://player.vimeo.com/video/416014094
+
+Hmmm - double fail.
+
+Need to figure out how to embed movies (should be easy!)
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/416014094" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+---
